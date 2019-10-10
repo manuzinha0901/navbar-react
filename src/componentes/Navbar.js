@@ -20,9 +20,9 @@ const Navbar = () => {
       </nav>
       <section className={`menu ${menuAtivo ? "ativo" : ""}`}>
         <a href="/">Home</a>
-        <a href="/">Chuchu</a>
-        <a href="/">Pudim</a>
-        <a href="/">Carro</a>
+        <a href="/">onde Comprar</a>
+        <a href="/">Bejuterias</a>
+        <a href="/">Tendencias</a>
       </section>
     </div>
   );
